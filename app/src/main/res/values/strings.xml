@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">inClassExample1</string>
+    <string name="myName">xkcd</string>
+    <string name="todo">TODO</string>
+    <string name="buttonNext">Next</string>
+    <string name="title_activity_main2">Main 2 Activity</string>
+    <string name="other">Another Title!</string>
+</resources>
